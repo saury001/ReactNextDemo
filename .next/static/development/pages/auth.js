@@ -113,7 +113,7 @@ var authIndexPage = function authIndexPage(props) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 0:
 /*!****************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fauth&absolutePagePath=%2FUsers%2Fsaurabh%2FDocuments%2FReactJS%2FNextJS%2FReactNextDemo%2Fpages%2Fauth%2Findex.js ***!
   \****************************************************************************************************************************************************************/
@@ -136,5 +136,5 @@ module.exports = dll_5f137288facb1107b491;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=auth.js.map

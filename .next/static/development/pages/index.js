@@ -113,7 +113,7 @@ var indexPage = function indexPage(props) {
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!*****************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fsaurabh%2FDocuments%2FReactJS%2FNextJS%2FReactNextDemo%2Fpages%2Findex.js ***!
   \*****************************************************************************************************************************************************/
@@ -136,5 +136,5 @@ module.exports = dll_5f137288facb1107b491;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
