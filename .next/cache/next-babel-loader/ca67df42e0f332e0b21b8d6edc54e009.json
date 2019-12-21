@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport User from '../components/User';\n\nvar indexPage = function indexPage(props) {\n  return __jsx(\"div\", null, __jsx(\"h1\", null, \"Hey this is main index page\"), __jsx(User, {\n    page: \"Main\"\n  }));\n};\n\nexport default indexPage;","map":null,"metadata":{},"sourceType":"module"}
